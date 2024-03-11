@@ -1,0 +1,7 @@
+.display {
+  padding: 7px;
+  width: 100%;
+  border: 1px solid rgba(59, 59, 59, 0.47);
+  border-radius: 5px;
+  text-align: end;
+}
